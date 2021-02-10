@@ -1,0 +1,23 @@
+article{
+    text-align: center;
+    color: black;
+  }
+  header{
+      text-align: center;
+      color:chocolate;
+  }
+  footer{
+    text-align: center;
+    color:black;
+  }
+
+  #colorSelector1{
+      width: 50%; 
+      display: table-cell; 
+      background: rgb(0, 23, 128);
+  }
+
+  #colorSelector2{
+    display: table-cell; 
+    background: rgb(174, 174, 180);
+}
