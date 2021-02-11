@@ -6,20 +6,22 @@ article{
       text-align: center;
       color:chocolate;
       background-color:cyan
+    
   }
   footer{
     text-align: center;
-    color:black;
+    color:chocolate;
     background-color:cyan
   }
 
   #colorSelector1{
       width: 50%; 
       display: table-cell; 
-      background: rgb(0, 23, 128);
+      background: rgb(174, 174, 180);
+     
   }
 
   #colorSelector2{
     display: table-cell; 
-    background: rgb(174, 174, 180);
+  background: rgb(0, 23, 128);
 }
