@@ -27,7 +27,6 @@ article{
 
   #colorSelector2{
     display: table-cell; 
-<<<<<<< HEAD
     background: rgb(174, 174, 180);
 }
 
@@ -48,7 +47,3 @@ article{
     -ms-transform: translate(-25%, -25%);
     transform: translate(-25%, -25%);
   }
-=======
-  background: rgb(0, 23, 128);
-}
->>>>>>> 52513aa8864452b19d776dbb549b3a9100c984ee
