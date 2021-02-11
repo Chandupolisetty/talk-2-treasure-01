@@ -7,10 +7,12 @@
                    
              </head>     
         <link rel="stylesheet" href="./styles/style.css">
-        <script type="module" src="./scripts/main.js"></script>
+        <script type="text/javascript" src="./scripts/main.js"></script>
+        <script type="text/javascript" src="responseData.js"></script>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.1.1.min.js"></script>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
@@ -19,16 +21,17 @@
     <body>
         <main>
             <article>
-                <header>
+                <div class = "header" id = "header">
                     <h1>Talk-2-Group 5</h1>
-                </header>
-                  <div style="width: 100%; display: table;">
+                    <br><br>
+                </div>
+                  <div  style="width: 100%; display: table;">
                     <div style="display: table-row; height: 400px;">
                         <div id = "colorSelector1" >
-                            <button id = "color1" type="button" class="btn">Color1</button>
+                            <button id = "btnColor1" type="button" class="btn btn-danger" onclick="onClickColor1()">Click me!</button>
                         </div>
                         <div id = "colorSelector2"> 
-                            <button id = "color2" type="button" class="btn">Color2</button>
+                            <button id = "btnColor2" type="button" class="btn btn-danger" onclick=onClickColor2()>Click me!</button>
                         </div>
                     </div>
                 </div>
