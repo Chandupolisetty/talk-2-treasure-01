@@ -36,7 +36,6 @@ article{
 #btnColor1 {
     margin: 0;
     position: absolute;
-    background-color: chocolate;
     top: 50%;
     left: 20%;
     -ms-transform: translate(-25%, -25%);
@@ -46,7 +45,6 @@ article{
   #btnColor2 {
     margin: 0;
     position: absolute;
-    background-color:blue;
     top: 50%;
     right: 20%;
     -ms-transform: translate(-25%, -25%);
