@@ -7,6 +7,10 @@ article{
       color:chocolate;
   }
   footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     text-align: center;
     color:black;
   }
@@ -21,3 +25,21 @@ article{
     display: table-cell; 
     background: rgb(174, 174, 180);
 }
+
+#color1 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    -ms-transform: translate(-25%, -25%);
+    transform: translate(-25%, -25%);
+  }
+
+  #color2 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    right: 20%;
+    -ms-transform: translate(-25%, -25%);
+    transform: translate(-25%, -25%);
+  }
