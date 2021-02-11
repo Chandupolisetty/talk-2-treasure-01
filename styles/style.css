@@ -5,10 +5,12 @@ article{
   header{
       text-align: center;
       color:chocolate;
+      background-color:cyan
   }
   footer{
     text-align: center;
     color:black;
+    background-color:cyan
   }
 
   #colorSelector1{
