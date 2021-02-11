@@ -5,6 +5,8 @@ article{
   header{
       text-align: center;
       color:chocolate;
+      background-color:cyan
+    
   }
   footer{
     position: fixed;
@@ -12,17 +14,20 @@ article{
     bottom: 0;
     width: 100%;
     text-align: center;
-    color:black;
+    color:chocolate;
+    background-color:cyan
   }
 
   #colorSelector1{
       width: 50%; 
       display: table-cell; 
-      background: rgb(0, 23, 128);
+      background: rgb(174, 174, 180);
+     
   }
 
   #colorSelector2{
     display: table-cell; 
+<<<<<<< HEAD
     background: rgb(174, 174, 180);
 }
 
@@ -43,3 +48,7 @@ article{
     -ms-transform: translate(-25%, -25%);
     transform: translate(-25%, -25%);
   }
+=======
+  background: rgb(0, 23, 128);
+}
+>>>>>>> 52513aa8864452b19d776dbb549b3a9100c984ee
