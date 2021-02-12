@@ -24,14 +24,14 @@ article{
   #colorSelector1{
       width: 50%; 
       display: table-cell; 
-      background: whitesmoke;
+      background: rgb(0, 23, 128);
      
   }
 
 
   #colorSelector2{
     display: table-cell; 
-    background:whitesmoke;
+    background:rgb(174, 174, 180);
 }
 
 
