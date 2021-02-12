@@ -3,6 +3,8 @@
 
 ## Hosted app on github pages link
  - https://gundupooja.github.io/talk-2-group-5/index.html
+ Google Analytics 
+ -https://analytics.google.com/analytics/web/#/p262093140/realtime/overview?params=_u..nav%3Ddefault
  
 ## Team- Members
 <table>
