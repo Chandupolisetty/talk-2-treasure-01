@@ -1,4 +1,4 @@
-# Talk-2-Group-5
+# Talk-2-Treasure-01
 - This repo is all about to create, build and test a small app.
 
 ## Hosted app on github pages link
